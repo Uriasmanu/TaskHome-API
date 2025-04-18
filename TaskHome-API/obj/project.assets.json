@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Manoela Urias\\source\\repos\\TaskHome-API\\TaskHome-API\\TaskHome-API.csproj",
+      "projectUniqueName": "C:\\git\\TaskHome-API\\TaskHome-API\\TaskHome-API.csproj",
       "projectName": "TaskHome-API",
-      "projectPath": "C:\\Users\\Manoela Urias\\source\\repos\\TaskHome-API\\TaskHome-API\\TaskHome-API.csproj",
+      "projectPath": "C:\\git\\TaskHome-API\\TaskHome-API\\TaskHome-API.csproj",
       "packagesPath": "C:\\Users\\Manoela Urias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Manoela Urias\\source\\repos\\TaskHome-API\\TaskHome-API\\obj\\",
+      "outputPath": "C:\\git\\TaskHome-API\\TaskHome-API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

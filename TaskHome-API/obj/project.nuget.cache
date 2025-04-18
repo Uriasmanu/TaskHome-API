@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vHoM+1YQx1M=",
+  "dgSpecHash": "gfNdzssiRuQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Manoela Urias\\source\\repos\\TaskHome-API\\TaskHome-API\\TaskHome-API.csproj",
+  "projectFilePath": "C:\\git\\TaskHome-API\\TaskHome-API\\TaskHome-API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Manoela Urias\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Manoela Urias\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",

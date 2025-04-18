@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskHome-API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df8549913f362dd629f326cc313444247e27d693")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskHome-API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskHome-API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
