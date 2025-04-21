@@ -1,4 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using TaskHome_API.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("SigmaContexto"))
+);
 
 // Add services to the container.
 
